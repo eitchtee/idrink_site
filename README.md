@@ -1,8 +1,3 @@
----
-layout: page
-title: "iDrink"
----
-
 🎮 <b>THE GAME</b>
 iDrink is a fun and daring drinking game to break the ice and spice up any party or gathering, with hundreds of interesting and unique challenges and questions to play along. Gather your friends and start playing right now.
 
