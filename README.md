@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+🎮 <b>THE GAME</b>
+iDrink is a fun and daring drinking game to break the ice and spice up any party or gathering, with hundreds of interesting and unique challenges and questions to play along. Gather your friends and start playing right now.
 
-You can use the [editor on GitHub](https://github.com/eitchtee/idrink_site/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Nothing better than getting drunk together.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+🏆 <b>HOW TO PLAY</b>
+To play iDrink is quite simple: garner your friends, pick the alcohol of your choice, decide how much will be drunk every time the game tells you to, and swipe away on those cards, getting crazier and funnier tasks with each new swipe.
 
-### Markdown
+📋 <b>FEATURES</b>
+★ +200 questions and challenges
+★ Completely free to play: no intrusive ads or in-app payments
+★ Cool icons for each card
+★ Different task levels for each kind of playthrough
+★ Customizable
+★ Download new content automatically
+★ True black background: save battery while playing on AMOLED screens
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+iDrink is free to play and superb for immediately upgrading any get-together, we guarantee a lot of laughs, as long as you bring the drinks.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eitchtee/idrink_site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Start playing this fun drink game right now!
