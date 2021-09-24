@@ -1,3 +1,7 @@
+layout: page
+title: "Privacy Policy"
+permalink: /privacy/
+
 # Privacy Policy
 
 Herculino de Miranda Trotta Neto built the iDrink app as an Ad Supported app. This SERVICE is provided by Herculino de Miranda Trotta Neto at no cost and is intended for use as is.
